@@ -28,5 +28,6 @@ print(4, var_str4)
 
 print(var_int)
 print(var_float)
+
 # snake_case = 1
 
